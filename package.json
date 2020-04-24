@@ -8,10 +8,12 @@
     "type-check": "tsc"
   },
   "dependencies": {
+    "@xstate/react": "^0.8.1",
     "isomorphic-unfetch": "3.0.0",
     "next": "latest",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "xstate": "^4.9.1"
   },
   "devDependencies": {
     "@types/node": "^12.12.21",
